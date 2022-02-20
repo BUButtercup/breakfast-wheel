@@ -49,3 +49,16 @@ button.main-el {
     border-radius: 5px;
     box-shadow: 2px 2px gray;
 }
+
+#results {
+    display: flex;
+    flex-direction: column;
+    height: 10vh;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#what-having {
+    font-size: 2rem;
+    font-weight: bold;
+}
